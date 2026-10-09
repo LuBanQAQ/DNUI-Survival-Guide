@@ -18,6 +18,7 @@ const sidebar: DefaultTheme.SidebarItem[] = [
       { text: '选课与学分', link: '/freshman/course-selection' },
       { text: '转专业', link: '/freshman/major-transfer' },
       { text: '大一常见误区', link: '/freshman/pitfalls' },
+      { text: 'DNUI 名词表', link: '/freshman/glossary' },
     ],
   },
   {

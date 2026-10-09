@@ -9,6 +9,8 @@ description: 写给 DNUI 新生的入学起步指南：报到、选课、生活�
 
 内容正在持续完善。欢迎通过 GitHub Pull Request 参与贡献。
 
+遇到看不懂的名词（素拓分、CA、培养方案、三方协议等），先查 [DNUI 名词表](/freshman/glossary)。
+
 ## 计划整理的话题
 
 以下为栏目规划，具体内容以各页面实际发布为准：
