@@ -135,6 +135,7 @@ const sidebar: DefaultTheme.SidebarItem[] = [
       { text: '内容编写指南', link: '/contribute/writing' },
       { text: '关于项目', link: '/about/' },
       { text: '致谢', link: '/acknowledgments' },
+      { text: '友链', link: '/friends' },
     ],
   },
 ]

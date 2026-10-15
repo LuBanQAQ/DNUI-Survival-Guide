@@ -167,7 +167,7 @@ for (const c of commits) {
 }
 const overall = [...byPerson.values()].sort((a, b) => b.commits - a.commits)
 
-// ---- 4. 写出数据 ----
+// ---- 4. 写出贡献者数据 ----
 writeFileSync(
   DATA_FILE,
   JSON.stringify(
